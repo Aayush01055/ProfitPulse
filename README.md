@@ -136,7 +136,7 @@ ProfitPulse/
 3. **Start the ML prediction API**
    ```bash
    cd Predictive/Predictive/Model
-   python app.py
+   python model.py
    # Runs on http://localhost:5000
    ```
 
