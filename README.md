@@ -1,5 +1,7 @@
 # ProfitPulse
 
+##Predict. Perform. Prosper.
+
 A comprehensive financial analytics and business intelligence platform that combines predictive modeling, customer feedback management, and modern web interfaces to help businesses make data-driven decisions.
 
 ## 🚀 Features
