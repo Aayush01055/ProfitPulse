@@ -137,7 +137,7 @@ ProfitPulse/
    ```bash
    cd Predictive/Predictive/Model
    python model.py
-   # Runs on http://localhost:5000
+   # Runs on http://localhost:3000
    ```
 
 4. **Start the Node.js backend** (if needed)
@@ -148,6 +148,67 @@ ProfitPulse/
    ```
 
 ### MongoDB Setup
+
+#### Option 1: Docker Setup (Recommended)
+Use the provided Docker Compose setup for easy MongoDB deployment with UI:
+
+```bash
+# Start MongoDB with UI
+./mongodb.sh start
+
+# Check status
+./mongodb.sh status
+
+# Stop services
+./mongodb.sh stop
+
+# View logs
+./mongodb.sh logs
+
+# Reset database (removes all data)
+./mongodb.sh reset
+
+# Create backup
+./mongodb.sh backup
+```
+
+**Access URLs:**
+- MongoDB: `mongodb://localhost:27017`
+- MongoDB UI: http://localhost:8081
+  - Username: `profitpulse`
+  - Password: `admin123`
+
+**Database Credentials:**
+- Database: `firm_data`
+- Admin User: `admin`
+- Admin Password: `profitpulse123`
+
+#### Importing Full CSV Data
+To import all your CSV reference data into MongoDB:
+
+```bash
+# Install required Python packages
+pip install pandas pymongo
+
+# Run the import script
+python import_data.py
+```
+
+This script will:
+- Convert all CSV files to JSON format
+- Import them into appropriate MongoDB collections
+- Create backup JSON files in the `Refrence Data/` directory
+- Add sample feedback data
+- Create necessary indexes
+
+**Supported CSV Files:**
+- `firm_data.financial_data.csv` → `financial_data` collection
+- `firm_data.firm_prediction.csv` → `firm_prediction` collection  
+- `firm_data.company_statuses.csv` → `company_statuses` collection
+- `firm_data.login_users.csv` → `login_users` collection
+- `american_bankruptcy.csv` → `american_bankruptcy` collection
+
+#### Option 2: Manual MongoDB Installation
 
 Ensure MongoDB is running on the default port (27017). The application expects a database named `firm_data` with the following collections:
 - Financial data

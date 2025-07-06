@@ -1,3 +1,7 @@
+import os
+# Suppress TensorFlow warnings
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
+
 import datetime
 from flask import Flask, jsonify, request
 from flask_mail import Mail, Message
@@ -24,7 +28,9 @@ api = Api(app)
 CORS(app, resources={r"/*": {"origins": "http://localhost:3001"}})
 
 # MongoDB connection setup
-client = pymongo.MongoClient('mongodb://localhost:27017/')
+client = pymongo.MongoClient('mongodb://admin:profitpulse123@localhost:27017/')
+#username and password
+# client = pymongo.MongoClient('mongodb://username:password@localhost:27017/')
 firm_db = client['firm_data']
 firm_collection = firm_db['financial_data']
 profit_collection = firm_db['firm_prediction']

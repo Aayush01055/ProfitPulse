@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "66e5132909e1fe8496521dc2",
+    "revenue": 1500000,
+    "expenses": 500000,
+    "market_cap": 1800000,
+    "profit": 1000000
+  },
+  {
+    "_id": "66e5132909e1fe8496521dc3",
+    "revenue": 2000000,
+    "expenses": 600000,
+    "market_cap": 2300000,
+    "profit": 1400000
+  },
+  {
+    "_id": "66e5132909e1fe8496521dc4",
+    "revenue": 3000000,
+    "expenses": 900000,
+    "market_cap": 3500000,
+    "profit": 2100000
+  },
+  {
+    "_id": "66e5132909e1fe8496521dc5",
+    "revenue": 4000000,
+    "expenses": 1200000,
+    "market_cap": 4700000,
+    "profit": 2800000
+  },
+  {
+    "_id": "66e5132909e1fe8496521dc6",
+    "revenue": 2500000,
+    "expenses": 750000,
+    "market_cap": 2900000,
+    "profit": 1750000
+  },
+  {
+    "_id": "66e5132909e1fe8496521dc7",
+    "revenue": 2700000,
+    "expenses": 850000,
+    "market_cap": 3100000,
+    "profit": 1850000
+  },
+  {
+    "_id": "66e5132909e1fe8496521dc8",
+    "revenue": 3400000,
+    "expenses": 1150000,
+    "market_cap": 4000000,
+    "profit": 2250000
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "_id": "672a3eb6804e38a9b9871a02",
+    "Unnamed: 1": 0,
+    "randspend": 165349.3,
+    "admincost": 136897.9,
+    "marketspend": 471784.2,
+    "state": "New York",
+    "Profit": 192261.93
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a03",
+    "Unnamed: 1": 1,
+    "randspend": 162597.8,
+    "admincost": 151377.69,
+    "marketspend": 443898.63,
+    "state": "California",
+    "Profit": 191792.16
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a04",
+    "Unnamed: 1": 2,
+    "randspend": 153441.61,
+    "admincost": 101145.65,
+    "marketspend": 407934.64,
+    "state": "Florida",
+    "Profit": 191050.49
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a05",
+    "Unnamed: 1": 3,
+    "randspend": 144372.51,
+    "admincost": 118671.95,
+    "marketspend": 383199.72,
+    "state": "New York",
+    "Profit": 182902.09
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a06",
+    "Unnamed: 1": 4,
+    "randspend": 142107.44,
+    "admincost": 91391.87,
+    "marketspend": 366168.52,
+    "state": "Florida",
+    "Profit": 166188.04
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a07",
+    "Unnamed: 1": 5,
+    "randspend": 131877.0,
+    "admincost": 99814.81,
+    "marketspend": 362861.46,
+    "state": "New York",
+    "Profit": 156991.22
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a08",
+    "Unnamed: 1": 6,
+    "randspend": 134615.56,
+    "admincost": 147198.97,
+    "marketspend": 127716.92,
+    "state": "California",
+    "Profit": 156122.61
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a09",
+    "Unnamed: 1": 7,
+    "randspend": 130298.23,
+    "admincost": 145530.16,
+    "marketspend": 323876.78,
+    "state": "Florida",
+    "Profit": 155752.7
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a0a",
+    "Unnamed: 1": 8,
+    "randspend": 120542.62,
+    "admincost": 148719.05,
+    "marketspend": 311613.39,
+    "state": "New York",
+    "Profit": 152211.87
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a0b",
+    "Unnamed: 1": 9,
+    "randspend": 123334.98,
+    "admincost": 108679.27,
+    "marketspend": 304981.72,
+    "state": "California",
+    "Profit": 149760.06
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a0c",
+    "Unnamed: 1": 10,
+    "randspend": 101913.18,
+    "admincost": 110594.21,
+    "marketspend": 229161.05,
+    "state": "Florida",
+    "Profit": 146122.05
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a0d",
+    "Unnamed: 1": 11,
+    "randspend": 100672.06,
+    "admincost": 91790.71,
+    "marketspend": 249744.65,
+    "state": "California",
+    "Profit": 144259.5
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a0e",
+    "Unnamed: 1": 12,
+    "randspend": 93863.85,
+    "admincost": 127320.48,
+    "marketspend": 249839.54,
+    "state": "Florida",
+    "Profit": 141585.62
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a0f",
+    "Unnamed: 1": 13,
+    "randspend": 91992.49,
+    "admincost": 135495.17,
+    "marketspend": 252665.03,
+    "state": "California",
+    "Profit": 134307.45
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a10",
+    "Unnamed: 1": 14,
+    "randspend": 119943.34,
+    "admincost": 156547.52,
+    "marketspend": 256513.02,
+    "state": "Florida",
+    "Profit": 132602.75
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a11",
+    "Unnamed: 1": 15,
+    "randspend": 114523.71,
+    "admincost": 122616.94,
+    "marketspend": 261776.33,
+    "state": "New York",
+    "Profit": 129917.14
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a12",
+    "Unnamed: 1": 16,
+    "randspend": 78013.21,
+    "admincost": 121597.65,
+    "marketspend": 264346.16,
+    "state": "California",
+    "Profit": 126993.03
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a13",
+    "Unnamed: 1": 17,
+    "randspend": 94657.26,
+    "admincost": 145077.68,
+    "marketspend": 282574.41,
+    "state": "New York",
+    "Profit": 125370.47
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a14",
+    "Unnamed: 1": 18,
+    "randspend": 91749.26,
+    "admincost": 114175.89,
+    "marketspend": 294919.67,
+    "state": "Florida",
+    "Profit": 124267.0
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a15",
+    "Unnamed: 1": 19,
+    "randspend": 86419.8,
+    "admincost": 153514.21,
+    "marketspend": 0.1,
+    "state": "New York",
+    "Profit": 122776.96
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a16",
+    "Unnamed: 1": 20,
+    "randspend": 76253.96,
+    "admincost": 113867.4,
+    "marketspend": 298664.57,
+    "state": "California",
+    "Profit": 118474.13
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a17",
+    "Unnamed: 1": 21,
+    "randspend": 78389.57,
+    "admincost": 153773.53,
+    "marketspend": 299737.39,
+    "state": "New York",
+    "Profit": 111313.12
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a18",
+    "Unnamed: 1": 22,
+    "randspend": 73994.66,
+    "admincost": 122782.85,
+    "marketspend": 303319.36,
+    "state": "Florida",
+    "Profit": 110352.35
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a19",
+    "Unnamed: 1": 23,
+    "randspend": 67532.63,
+    "admincost": 105751.13,
+    "marketspend": 304768.83,
+    "state": "Florida",
+    "Profit": 108734.09
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a1a",
+    "Unnamed: 1": 24,
+    "randspend": 77044.11,
+    "admincost": 99281.44,
+    "marketspend": 140574.91,
+    "state": "New York",
+    "Profit": 108552.14
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a1b",
+    "Unnamed: 1": 25,
+    "randspend": 64664.81,
+    "admincost": 139553.26,
+    "marketspend": 137962.72,
+    "state": "California",
+    "Profit": 107404.44
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a1c",
+    "Unnamed: 1": 26,
+    "randspend": 75328.97,
+    "admincost": 144136.08,
+    "marketspend": 134050.17,
+    "state": "Florida",
+    "Profit": 105733.64
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a1d",
+    "Unnamed: 1": 27,
+    "randspend": 72107.7,
+    "admincost": 127864.65,
+    "marketspend": 353183.91,
+    "state": "New York",
+    "Profit": 105008.41
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a1e",
+    "Unnamed: 1": 28,
+    "randspend": 66051.62,
+    "admincost": 182645.66,
+    "marketspend": 118148.3,
+    "state": "Florida",
+    "Profit": 103282.48
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a1f",
+    "Unnamed: 1": 29,
+    "randspend": 65605.58,
+    "admincost": 153032.16,
+    "marketspend": 107138.48,
+    "state": "New York",
+    "Profit": 101004.74
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a20",
+    "Unnamed: 1": 30,
+    "randspend": 61994.58,
+    "admincost": 115641.38,
+    "marketspend": 91131.34,
+    "state": "Florida",
+    "Profit": 99937.69
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a21",
+    "Unnamed: 1": 31,
+    "randspend": 61136.48,
+    "admincost": 152702.02,
+    "marketspend": 88218.33,
+    "state": "New York",
+    "Profit": 97483.66
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a22",
+    "Unnamed: 1": 32,
+    "randspend": 63408.96,
+    "admincost": 129219.71,
+    "marketspend": 46085.35,
+    "state": "California",
+    "Profit": 97427.94
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a23",
+    "Unnamed: 1": 33,
+    "randspend": 55494.05,
+    "admincost": 103057.59,
+    "marketspend": 214634.91,
+    "state": "Florida",
+    "Profit": 96779.02
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a24",
+    "Unnamed: 1": 34,
+    "randspend": 46426.17,
+    "admincost": 157694.02,
+    "marketspend": 210797.77,
+    "state": "California",
+    "Profit": 96712.9
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a25",
+    "Unnamed: 1": 35,
+    "randspend": 46014.12,
+    "admincost": 85047.54,
+    "marketspend": 205517.74,
+    "state": "New York",
+    "Profit": 96479.61
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a26",
+    "Unnamed: 1": 36,
+    "randspend": 28663.86,
+    "admincost": 127056.31,
+    "marketspend": 201126.92,
+    "state": "Florida",
+    "Profit": 90708.29
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a27",
+    "Unnamed: 1": 37,
+    "randspend": 44070.05,
+    "admincost": 51283.24,
+    "marketspend": 197029.52,
+    "state": "California",
+    "Profit": 89949.24
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a28",
+    "Unnamed: 1": 38,
+    "randspend": 20229.69,
+    "admincost": 65948.03,
+    "marketspend": 185265.2,
+    "state": "New York",
+    "Profit": 81229.16
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a29",
+    "Unnamed: 1": 39,
+    "randspend": 38558.61,
+    "admincost": 82982.19,
+    "marketspend": 174999.4,
+    "state": "California",
+    "Profit": 81005.86
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a2a",
+    "Unnamed: 1": 40,
+    "randspend": 28754.43,
+    "admincost": 118546.15,
+    "marketspend": 172795.77,
+    "state": "California",
+    "Profit": 78240.01
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a2b",
+    "Unnamed: 1": 41,
+    "randspend": 27893.02,
+    "admincost": 84710.87,
+    "marketspend": 164470.81,
+    "state": "Florida",
+    "Profit": 77798.93
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a2c",
+    "Unnamed: 1": 42,
+    "randspend": 23641.03,
+    "admincost": 96189.73,
+    "marketspend": 148001.21,
+    "state": "California",
+    "Profit": 71498.59
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a2d",
+    "Unnamed: 1": 43,
+    "randspend": 15505.83,
+    "admincost": 127382.4,
+    "marketspend": 35534.27,
+    "state": "New York",
+    "Profit": 69759.08
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a2e",
+    "Unnamed: 1": 44,
+    "randspend": 22177.84,
+    "admincost": 154806.24,
+    "marketspend": 28334.82,
+    "state": "California",
+    "Profit": 65200.43
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a2f",
+    "Unnamed: 1": 45,
+    "randspend": 1000.33,
+    "admincost": 124153.14,
+    "marketspend": 1904.03,
+    "state": "New York",
+    "Profit": 64926.18
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a30",
+    "Unnamed: 1": 46,
+    "randspend": 1315.56,
+    "admincost": 115816.31,
+    "marketspend": 297114.56,
+    "state": "Florida",
+    "Profit": 49490.85
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a31",
+    "Unnamed: 1": 47,
+    "randspend": 0.1,
+    "admincost": 135427.02,
+    "marketspend": 0.1,
+    "state": "California",
+    "Profit": 42559.83
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a32",
+    "Unnamed: 1": 48,
+    "randspend": 542.15,
+    "admincost": 51743.25,
+    "marketspend": 0.1,
+    "state": "New York",
+    "Profit": 35673.51
+  },
+  {
+    "_id": "672a3eb6804e38a9b9871a33",
+    "Unnamed: 1": 49,
+    "randspend": 0.1,
+    "admincost": 116983.9,
+    "marketspend": 45173.16,
+    "state": "California",
+    "Profit": 14681.5
+  }
+]
