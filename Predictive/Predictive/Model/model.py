@@ -28,7 +28,7 @@ api = Api(app)
 CORS(app, resources={r"/*": {"origins": "http://localhost:3001"}})
 
 # MongoDB connection setup
-client = pymongo.MongoClient('mongodb://admin:profitpulse123@localhost:27017/')
+client = pymongo.MongoClient('mongodb://USERNAME:PASSWORD@URL/')
 #username and password
 # client = pymongo.MongoClient('mongodb://username:password@localhost:27017/')
 firm_db = client['firm_data']
@@ -36,10 +36,10 @@ firm_collection = firm_db['financial_data']
 profit_collection = firm_db['firm_prediction']
 
 # Email configuration
-app.config['MAIL_SERVER'] = "smtp.gmail.com"
-app.config['MAIL_PORT'] = 587
+app.config['MAIL_SERVER'] = "MAIL_SERVER"
+app.config['MAIL_PORT'] = PORT
 app.config['MAIL_USE_TLS'] = True
-app.config['MAIL_USERNAME'] = "aayushshah342@gmail.com"
+app.config['MAIL_USERNAME'] = "MAIL_ID"
 app.config['MAIL_PASSWORD'] = "APP_PASSWORD"
 mail = Mail(app)
 
